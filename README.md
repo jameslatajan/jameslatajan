@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @jameslatajan
+- 👋 Hi, I’m Jefferson G. Pimentel
 - 👀 I’m interested in learning web development and application development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on creatating some nice programs
+
+- You can email me at jefferson.pimentel173@gmail.com
 
 <!---
 jameslatajan/jameslatajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
